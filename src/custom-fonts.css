@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Sora'; /* Replace with your font family name */
+    src: url('./assets/fonts/Sora-VariableFont_wght.ttf') format('woff2'); /* Adjust path and format */
+    font-display: swap; /* Recommended for smooth loading */
+  }
+  

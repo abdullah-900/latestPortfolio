@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.cus {
+  text-shadow: 1.41px 1.41px black, 1.4px 0 black, 1.4px -1.4px black,
+    0 -1.4px black, -1.4px -1.4px black, -1.4px 0 black,
+   -1.4px 1.4px black, 0 1.4px black;
+  }
+
+
+  
