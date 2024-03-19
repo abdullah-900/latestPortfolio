@@ -13,7 +13,11 @@ export default {
           lineHeight: '3.5rem',
           letterSpacing: '-0.06em',
         }],
-        'Displaytext(M)/Outlined(M)': ['1.5rem', {
+        'Displaytext(M)/Outlined(M)': ['1.75rem', {
+          lineHeight: '2rem',
+          letterSpacing: '-0.03em',
+        }],
+        'Displaytext(M)/Outlined(M)forsmallphone': ['1.5rem', {
           lineHeight: '1.75rem',
           letterSpacing: '-0.03em',
         }],
@@ -41,27 +45,27 @@ export default {
           lineHeight: '1.5rem',
           letterSpacing: '-0.025rem',
         }],
-        'Heading H6': ['1rem', {
+        'HeadingH6': ['1rem', {
           lineHeight: '1.25rem',
           letterSpacing: '-0.02rem',
         }],
-        'Paragraph P1': ['1.25rem', {
+        'ParagraphP1': ['1.25rem', {
           lineHeight: '1.5rem',
           letterSpacing: '0.025rem',
         }],
-        'Paragraph P2': ['1rem', {
+        'ParagraphP2': ['1rem', {
           lineHeight: '1.25rem',
           letterSpacing: '0.02rem',
         }],
-        'Paragraph P3': ['.75rem', {
+        'ParagraphP3': ['.75rem', {
           lineHeight: '1rem',
           letterSpacing: '0.015rem',
         }],
-        'Button Text': ['1.25rem', {
+        'ButtonText': ['1.25rem', {
           lineHeight: '1.5rem',
           letterSpacing: '0.025rem',
         }],
-        'Button Text 2': ['1rem', {
+        'ButtonText 2': ['1rem', {
           lineHeight: '20px',
           letterSpacing: '0.02rem',
         }],
