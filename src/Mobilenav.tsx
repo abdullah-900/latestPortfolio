@@ -5,7 +5,7 @@ return (
     <>
 <div className="flex justify-between items-center p-4">
   <header>
-    <h1>Logo</h1>
+    <img src="LogoNav.svg" alt="" />
   </header>
   <img onClick={()=>setShowNav(!showNav)} src="material-symbols_menu.svg" alt="" />
   </div>
