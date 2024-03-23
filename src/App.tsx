@@ -4,6 +4,7 @@ import Hero from './Hero'
 import Skills from './Skills'
 import About from './About'
 import Experience from './Experience'
+import Footer from './Footer'
 function App() {
   return (
     <>
@@ -14,6 +15,7 @@ function App() {
 <Skills/>
 <About/>
 </main>
+<Footer/>
     </>
   )
 }
