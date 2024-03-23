@@ -65,7 +65,7 @@ export default {
           lineHeight: '1.5rem',
           letterSpacing: '0.025rem',
         }],
-        'ButtonText 2': ['1rem', {
+        'ButtonText2': ['1rem', {
           lineHeight: '20px',
           letterSpacing: '0.02rem',
         }],
