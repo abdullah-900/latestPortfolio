@@ -7,6 +7,16 @@ export default {
   ],
   
   theme: {
+    screens: {
+      // Default breakpoints
+      sm: '640px',
+      md: '768px',
+      lg: '1024px',
+      xl: '1280px',
+    'break1':'640px',
+    'break2': '770px',
+      
+    },
     extend: {
       fontSize: {
         'Displaytext/Outlined': ['3rem', {
