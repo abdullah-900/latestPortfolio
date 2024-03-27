@@ -1,7 +1,7 @@
 
 const Experience = () => {
   return (
-<section className=" flex flex-col gap-5 py-10 px-4 md:py-[3.75rem] md:px-20 md:px-8 bg-black text-white">
+<section className=" flex flex-col gap-5 py-10 px-4 md:py-[3.75rem] md:px-20  bg-black text-white">
 <div className="flex gap-4 py-5 justify-center">
 <h2 className="text-Displaytext(M)/Outlined(M) md:text-Displaytext/Outlined">My</h2>
 <h2 className="text-Displaytext(M)/Outlined(M) md:text-Displaytext/Outlined font-extrabold">Experience</h2>
